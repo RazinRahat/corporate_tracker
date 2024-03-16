@@ -11,3 +11,6 @@ Each company and its staff might delegate one or more devices to employees for
 a certain period of time
 Each company should be able to see when a Device was checked out and returned
 Each device should have a log of what condition it was handed out and returned
+
+
+Note: Didn't add frontend except login page as it was mentioned
