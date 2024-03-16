@@ -14,3 +14,5 @@ Each device should have a log of what condition it was handed out and returned
 
 
 Note: Didn't add frontend except login page as it was mentioned
+
+For stripe payment i will add a separate model in the models.py, use stripe api. Then i will use a separate payment function in views.py which will lead to the stripe payment gateway.
